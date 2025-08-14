@@ -8,7 +8,7 @@
 <body>
 
 <form method="POST">
-
+<h1>Problema das Idades: Se João tem o dobro da idade de Maria e Maria tem 20 anos, qual é a idade de João?</h1>
    <label for="IdadeMaria">Idade da Maria:</label>
    <input type="number" name="IddMaria">
    <input type="submit" value="Enviar">
