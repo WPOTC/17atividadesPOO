@@ -29,19 +29,19 @@
 
         <li><a href="10-form-Sequencia.php">Exercício 10</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="11-form-Probabilidade.php">Exercício 11</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="12-form-GeoEspacial.php">Exercício 12</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="13-form-Multiplos.php">Exercício 13</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="14-form-Taxa.php">Exercício 14</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="15-form-Proporcao.php">Exercício 15</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="16-form-Primos.php"> Exercício 16</a></li>
 
-        <li><a href="http://"></a></li>
+        <li><a href="17-form-Juros.php">Exercício 17</a></li>
 
     </ol>
 </Nav>
